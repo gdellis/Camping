@@ -1,5 +1,5 @@
 <p align=”center”>
-<img width=”200" height=”200" src=”https://www.swiss123.com/wp-content/uploads/2019/09/0069725789eb2456257b04abec54356c.jpeg" alt=”my banner”>
+<img width=”200" height=”200" src=”https://www.swiss123.com/wp-content/uploads/2019/09/0069725789eb2456257b04abec54356c.jpeg">
 </p>
 
 ## Clothing
