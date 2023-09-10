@@ -1,6 +1,6 @@
----
-banner: https://lh5.googleusercontent.com/p/AF1QipPthQBIELUKWbnCQ6UI6W1aj_8dzEvYNHIRAkVQ=s766-k-no
----
+<p align=”center”>
+<img width="800" height="300" src="https://api-camping.churchofjesuschrist.org/api/property/561118/photos/2757/content/idd_B0930F68-0000-CB19-B062-F5582C34529C" alt="my banner">
+</p>
 
 Where: Brighton Meadows Campground 
 When: Sept. 22nd to the 23rd
@@ -41,6 +41,7 @@ Breakfast will be provided.
 ## Map
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.1994947323087!2d-111.48118202432134!3d40.82358157137702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8752414c5b1ff093%3A0xcb7b73b9d16e733e!2sBrighton%20Meadows%20Campground!5e0!3m2!1sen!2sus!4v1694375084543!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ![[Pasted image 20230910135427.png|100]]
 Scan For Directions
