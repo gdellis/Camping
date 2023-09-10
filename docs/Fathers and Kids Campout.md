@@ -47,9 +47,9 @@ Breakfast will be provided.
 
 ## Camp Links
 
-[Directions to Camp Map ](https://api-camping.churchofjesuschrist.org/api/property/561118/documents/93/content/idd_B0401567-0000-C01C-A48A-BE1C05896EFA)
-[Campground Map](https://api-camping.churchofjesuschrist.org/api/property/561118/documents/94/content/idd_B0401567-0000-C012-BA3B-333008DEDCA1)
-[Camp Rules](https://api-camping.churchofjesuschrist.org/api/property/561118/documents/1625/content/idd_60B23B6D-0000-C416-8474-923CEAA862E6)
+- [Directions to Camp Map ](https://api-camping.churchofjesuschrist.org/api/property/561118/documents/93/content/idd_B0401567-0000-C01C-A48A-BE1C05896EFA)
+- [Campground Map](https://api-camping.churchofjesuschrist.org/api/property/561118/documents/94/content/idd_B0401567-0000-C012-BA3B-333008DEDCA1)
+- [Camp Rules](https://api-camping.churchofjesuschrist.org/api/property/561118/documents/1625/content/idd_60B23B6D-0000-C416-8474-923CEAA862E6)
 
 ## Map
 
