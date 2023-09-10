@@ -58,7 +58,7 @@ Breakfast will be provided.
 
 ## Map
 
-<img src="/images/BrightonMeddowsMapQrCode.png" width=100>
+<img src="https://github.com/gdellis/Camping/blob/06c5662785cb1942260a16fbb319bc3938e86f20/images/BrightonMeddowsMapQrCode.png" width=100>
 
 Scan the QR Code or click [Here](https://goo.gl/maps/3Bam8RPXoV1pknUcA) for directions
 
