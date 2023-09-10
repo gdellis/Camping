@@ -1,6 +1,5 @@
 ---
-sticker: emoji//1f3d5-fe0f
-banner: "https://api-camping.churchofjesuschrist.org/api/property/561118/photos/2753/content/idd_50590568-0000-C21B-83A5-B7BBDEC51985"
+banner: https://lh5.googleusercontent.com/p/AF1QipPthQBIELUKWbnCQ6UI6W1aj_8dzEvYNHIRAkVQ=s766-k-no
 ---
 
 Where: Brighton Meadows Campground 
