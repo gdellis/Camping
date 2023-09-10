@@ -1,4 +1,4 @@
-<p align=”center”>
+<p align="center">
 <img width="800" height="300" src="https://api-camping.churchofjesuschrist.org/api/property/561118/photos/2757/content/idd_B0930F68-0000-CB19-B062-F5582C34529C" alt="my banner">
 </p>
 
@@ -10,9 +10,11 @@ What to bring:  See Attached
 
 ## Food
 ### 🍔Dinner
+
 No dinner will be provided.  You can eat before or bring something with you.  You are welcome to bring tin foil dinners and cook them on the fire.
 
 ### 🥞 Breakfast 
+
 Breakfast will be provided.
 - Pancakes
 - Eggs/Cheese
@@ -22,6 +24,7 @@ Breakfast will be provided.
 
 > [!Note]
 > Please let us know if there are any food requirements
+
 ## Activities 
 
 - 🎣 Fishing (Bring Your Own Pole)
@@ -31,6 +34,7 @@ Breakfast will be provided.
 ## 📆Schedule
 
 ### Friday
+
 |Time|Activity|
 |----|----|
 |12:00 PM - 6:00 PM PM|Arrive at Camp|
@@ -39,6 +43,7 @@ Breakfast will be provided.
 |8:30 PM|Spiritual Thought|
 
 ### Saturday
+
 |Time|Activity|
 |----|----|
 |8:30 AM|Breakfast Preparations|
