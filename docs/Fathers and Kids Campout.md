@@ -24,8 +24,8 @@ Breakfast will be provided.
 > Please let us know if there are any food requirements
 ## Activities 
 
-- 🎣 Fishing
-- 🛶 canoes
+- 🎣 Fishing (Bring Your Own Pole)
+- 🛶 Canoes (Provided by Camp)
 - Zip Line 
 
 ## 📆Schedule
